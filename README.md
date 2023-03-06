@@ -3,15 +3,24 @@
 Hi Everyone ! 
 I have build this app for my portfolio, it is simple todos app with firebase. You can sign up or sign in with FirebaseAuth and you can add tasks or delete. All users have a different database so each user sees their own tasks.
 
-I used this dependencies:
+<strong>How to use:</strong>
 
-  google_fonts: ^4.0.3
-  firebase_auth: ^4.2.9
-  cloud_firestore: ^4.4.3
-  firebase_core: ^2.7.0
-  awesome_snackbar_content: ^0.1.1
-  art_sweetalert: ^0.0.5
+User can add new task from add button on appbar.
+
+User can delete tasks with longpress or user can change tasks state (unfinished,finished) by clicking the checkbox.
+
+<strong>I used this dependencies:</strong>
+
+  google_fonts: ^4.0.3,
+  firebase_auth: ^4.2.9,
+  cloud_firestore: ^4.4.3,
+  firebase_core: ^2.7.0,
+  awesome_snackbar_content: ^0.1.1,
+  art_sweetalert: ^0.0.5,
   
+<strong>Scrennshots from Todos app:</strong>
+
+
 <div>
   <img src='https://user-images.githubusercontent.com/57591410/223057982-0d049623-9ae4-4f2d-bce3-78ebbfc6a8e6.png' width='250' height='500'>
 <img src='https://user-images.githubusercontent.com/57591410/223058074-07426295-4c14-48d7-809d-b27b21aa3427.png' width='250' height='500'>
