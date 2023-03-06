@@ -1,6 +1,8 @@
 # todoapp_withfirebase
 'Todos' App with Firebase
+
 Hi Everyone ! 
+
 I have build this app for my portfolio, it is simple todos app with firebase. You can sign up or sign in with FirebaseAuth and you can add tasks or delete. All users have a different database so each user sees their own tasks.
 
 <strong>How to use:</strong>
